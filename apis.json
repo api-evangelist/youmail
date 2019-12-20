@@ -1,0 +1,63 @@
+{
+    "name": "YouMail",
+    "description": "YouMail visual voicemail for your iPhone or Android device. Get better caller ID, call blocking, voicemail-to-text, voicemail by email and more!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1225-youmail.jpg",
+    "tags": [
+        "have api",
+        "messages",
+        "networks",
+        "telecommunications",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/youmail\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "YouMail",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1225-youmail.jpg",
+            "humanURL": "https:\/\/www.youmail.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/youmail-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/youmail-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.youmail.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.youmail.com\/home\/corp\/blogs.do"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.youmail.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/youmail"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/youmail"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/youmail"
+        }
+    ]
+}
